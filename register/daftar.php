@@ -153,7 +153,7 @@ if (isset($_POST["signUp"])) {
                             </div>
                         </div>
                     </div>
-                    <div class="text-center">
+                    <div class="text-center button-right">
                         <button type="submit" name="signUp" class="btn btn-primary mt-2" style="width:200px; height:50px;">Daftar</button>
                         </div>
                         </div>
